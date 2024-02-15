@@ -1,0 +1,12 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="new page title" border="normal" apply="language.langpart">
+<a id="locale_de" label="Dutch"/> 
+<label value="/"></label>
+<a id="locale_ml" label="Malayalam"/> 
+<label value="/"></label>
+<a id="locale_hi" label="Malayalam"/> 
+hai
+<label>${labels.b1}</label>
+</window>
+</zk>
